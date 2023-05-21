@@ -1,0 +1,11 @@
+C:\Users\mzhegulin-21\source\repos\BMI - калькулятор\BMI - калькулятор\bin\Debug\BMI - калькулятор.exe.config
+C:\Users\mzhegulin-21\source\repos\BMI - калькулятор\BMI - калькулятор\bin\Debug\BMI - калькулятор.exe
+C:\Users\mzhegulin-21\source\repos\BMI - калькулятор\BMI - калькулятор\bin\Debug\BMI - калькулятор.pdb
+C:\Users\mzhegulin-21\source\repos\BMI - калькулятор\BMI - калькулятор\obj\Debug\BMI - калькулятор.csproj.AssemblyReference.cache
+C:\Users\mzhegulin-21\source\repos\BMI - калькулятор\BMI - калькулятор\obj\Debug\BMI - калькулятор.csproj.SuggestedBindingRedirects.cache
+C:\Users\mzhegulin-21\source\repos\BMI - калькулятор\BMI - калькулятор\obj\Debug\BMI___калькулятор.Form1.resources
+C:\Users\mzhegulin-21\source\repos\BMI - калькулятор\BMI - калькулятор\obj\Debug\BMI___калькулятор.Properties.Resources.resources
+C:\Users\mzhegulin-21\source\repos\BMI - калькулятор\BMI - калькулятор\obj\Debug\BMI - калькулятор.csproj.GenerateResource.cache
+C:\Users\mzhegulin-21\source\repos\BMI - калькулятор\BMI - калькулятор\obj\Debug\BMI - калькулятор.csproj.CoreCompileInputs.cache
+C:\Users\mzhegulin-21\source\repos\BMI - калькулятор\BMI - калькулятор\obj\Debug\BMI - калькулятор.exe
+C:\Users\mzhegulin-21\source\repos\BMI - калькулятор\BMI - калькулятор\obj\Debug\BMI - калькулятор.pdb
